@@ -1,4 +1,4 @@
-# Computational_Physics_code
+# Computational_Physics_python_code
 Implementation of various numerical methods to solve physical problems using Python, Numpy, matplotlib .
 This Repo includes python code for some mathematical and physical problem solving algorithms and methods.
 
